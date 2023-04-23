@@ -32,7 +32,7 @@
     {
       "name": "AINS",
       "vendored_frameworks": "AgoraAiNoiseSuppressionExtension.xcframework",
-      "weak_frameworks": ["AgoraAiNoiseSuppressionExtension"],
+      "weak_frameworks": ["AgoraAiNoiseSuppressionExtension"]
     },
     {
       "name": "AudioBeauty",
