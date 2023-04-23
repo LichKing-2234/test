@@ -18,6 +18,7 @@
     "http": "https://download.agora.io/sdk/release/AgoraRtcEngine_iOS-4.1.1.zip"
   },
   "requires_arc": true,
+  "weak_frameworks": ["AgoraAiNoiseSuppressionExtension"],
   "subspecs": [
     {
       "name": "RtcBasic",
