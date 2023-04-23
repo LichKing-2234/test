@@ -21,13 +21,6 @@
     "weak_framworks": [
         "AgoraAiNoiseSuppressionExtension"
     ],
-    "vendored_frameworks": [
-        "./libs/AgoraRtcKit.xcframework",
-        "./libs/AgoraDav1d.xcframework",
-        "./libs/Agorafdkaac.xcframework",
-        "./libs/Agoraffmpeg.xcframework",
-        "./libs/AgoraSoundTouch.xcframework"
-    ],
     "subspecs": [
         {
             "name": "RtcBasic",
