@@ -32,47 +32,57 @@
     {
       "name": "AINS",
       "vendored_frameworks": "AgoraAiNoiseSuppressionExtension.xcframework",
-      "weak_frameworks": ["AgoraAiNoiseSuppressionExtension"]
+      "weak_frameworks": "AgoraAiNoiseSuppressionExtension"
     },
     {
       "name": "AudioBeauty",
-      "vendored_frameworks": "AgoraAudioBeautyExtension.xcframework"
+      "vendored_frameworks": "AgoraAudioBeautyExtension.xcframework",
+      "weak_frameworks": "AgoraAudioBeautyExtension"
     },
     {
       "name": "ClearVision",
-      "vendored_frameworks": "AgoraClearVisionExtension.xcframework"
+      "vendored_frameworks": "AgoraClearVisionExtension.xcframework",
+      "weak_frameworks": "AgoraClearVisionExtension"
     },
     {
       "name": "ContentInspect",
-      "vendored_frameworks": "AgoraContentInspectExtension.xcframework"
+      "vendored_frameworks": "AgoraContentInspectExtension.xcframework",
+      "weak_frameworks": "AgoraContentInspectExtension"
     },
     {
       "name": "SpatialAudio",
-      "vendored_frameworks": "AgoraSpatialAudioExtension.xcframework"
+      "vendored_frameworks": "AgoraSpatialAudioExtension.xcframework",
+      "weak_frameworks": "AgoraSpatialAudioExtension"
     },
     {
       "name": "VirtualBackground",
-      "vendored_frameworks": "AgoraVideoSegmentationExtension.xcframework"
+      "vendored_frameworks": "AgoraVideoSegmentationExtension.xcframework",
+      "weak_frameworks": "AgoraVideoSegmentationExtension"
     },
     {
       "name": "AIAEC",
-      "vendored_frameworks": "AgoraAiEchoCancellationExtension.xcframework"
+      "vendored_frameworks": "AgoraAiEchoCancellationExtension.xcframework",
+      "weak_frameworks": "AgoraAiEchoCancellationExtension"
     },
     {
       "name": "DRM",
-      "vendored_frameworks": "AgoraDrmLoaderExtension.xcframework"
+      "vendored_frameworks": "AgoraDrmLoaderExtension.xcframework",
+      "weak_frameworks": "AgoraDrmLoaderExtension"
     },
     {
       "name": "FaceDetection",
-      "vendored_frameworks": "AgoraFaceDetectionExtension.xcframework"
+      "vendored_frameworks": "AgoraFaceDetectionExtension.xcframework",
+      "weak_frameworks": "AgoraFaceDetectionExtension"
     },
     {
       "name": "VQA",
-      "vendored_frameworks": "AgoraVideoQualityAnalyzerExtension.xcframework"
+      "vendored_frameworks": "AgoraVideoQualityAnalyzerExtension.xcframework",
+      "weak_frameworks": "AgoraVideoQualityAnalyzerExtension"
     },
     {
       "name": "ReplayKit",
-      "vendored_frameworks": "AgoraReplayKitExtension.xcframework"
+      "vendored_frameworks": "AgoraReplayKitExtension.xcframework",
+      "weak_frameworks": "AgoraReplayKitExtension"
     }
   ]
 }
